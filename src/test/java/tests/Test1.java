@@ -7,7 +7,7 @@ public class Test1
 	@Test
 	public void method()
 	{
-		System.out.println("Hi my 3rd api batch students in 2021");
+		System.out.println("Hi my 3rd api students in 2021");
 	}
 
 }
