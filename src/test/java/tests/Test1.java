@@ -7,7 +7,7 @@ public class Test1
 	@Test
 	public void method()
 	{
-		System.out.println("Hi my students");
+		System.out.println("Hi my api students");
 	}
 
 }
